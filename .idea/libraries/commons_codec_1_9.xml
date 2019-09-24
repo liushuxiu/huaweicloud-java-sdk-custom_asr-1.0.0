@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fastjson-1.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcore-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/huaweicloud-java-sdk-custom_asr-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jackson-annotations-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jackson-core-2.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jackson-databind-2.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java-sdk-core-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/joda-time-2.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-1.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
